@@ -11,6 +11,3 @@ galaxy = input("Specify the galaxy to which you belong: ")
 # Select and employ a string concatenation method based on your personal preference and comfort level.
 
 print("🚀Deploying...I'm",  name, "representing the",  department, "I'm thrilled to commence our expedition into the vast and uncharted realm of the",  galaxy, "Together, we'll navigate this exciting frontier of technology! 🌌🌟💻")
-
-
-
